@@ -7,7 +7,7 @@
             "nombre": "Albumes",
             "id": "albumes"
         },
-        "precio": 1000
+        "precio": 800
     },
     {
         "id": "album-02",
@@ -17,7 +17,7 @@
             "nombre": "Albumes",
             "id": "albumes"
         },
-        "precio": 1000
+        "precio": 800
     },
     {
         "id": "album-03",
@@ -27,7 +27,7 @@
             "nombre": "Albumes",
             "id": "albumes"
         },
-        "precio": 1000
+        "precio": 600
     },
     {
         "id": "album-04",
@@ -37,7 +37,7 @@
             "nombre": "Albumes",
             "id": "albumes"
         },
-        "precio": 1000
+        "precio": 600
     },
     {
         "id": "album-05",
@@ -47,7 +47,7 @@
             "nombre": "Albumes",
             "id": "albumes"
         },
-        "precio": 1000
+        "precio": 750
     },
     {
         "id": "album-06",
@@ -57,7 +57,7 @@
             "nombre": "Albumes",
             "id": "albumes"
         },
-        "precio": 1000
+        "precio": 750
     },
     {
         "id": "album-07",
@@ -67,6 +67,6 @@
             "nombre": "Albumes",
             "id": "albumes"
         },
-        "precio": 1000
+        "precio": 750
     }
 ]
