@@ -1,0 +1,72 @@
+[
+    {
+        "id": "album-01",
+        "titulo": "EXODO Peso Pluma",
+        "imagen": "./img/albumes/01.jpg",
+        "categoria": {
+            "nombre": "Albumes",
+            "id": "albumes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "album-02",
+        "titulo": "Genesis Peso Pluma",
+        "imagen": "./img/albumes/02.jpg",
+        "categoria": {
+            "nombre": "Albumes",
+            "id": "albumes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "album-03",
+        "titulo": "Clancy 21 Pilots",
+        "imagen": "./img/albumes/03.jpg",
+        "categoria": {
+            "nombre": "Albumes",
+            "id": "albumes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "album-04",
+        "titulo": "Trench 21 Pilots",
+        "imagen": "./img/albumes/04.jpg",
+        "categoria": {
+            "nombre": "Albumes",
+            "id": "albumes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "album-05",
+        "titulo": "DATA Tainy",
+        "imagen": "./img/albumes/05.jpg",
+        "categoria": {
+            "nombre": "Albumes",
+            "id": "albumes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "album-06",
+        "titulo": "EUTDM Bad Bunny",
+        "imagen": "./img/albumes/06.jpg",
+        "categoria": {
+            "nombre": "Albumes",
+            "id": "albumes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "album-07",
+        "titulo": "YHLQMDLG Bad Bunny",
+        "imagen": "./img/albumes/07.jpg",
+        "categoria": {
+            "nombre": "Albumes",
+            "id": "albumes"
+        },
+        "precio": 1000
+    }
+]
